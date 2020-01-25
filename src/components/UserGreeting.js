@@ -6,6 +6,7 @@ class UserGreeting extends Component {
   }
 
   render() {
+    //    //    //    //    //    //    //    //    //
     // conditional rendering with JS variables
     // let message;
     // if (this.state.isLoggedIn) {
